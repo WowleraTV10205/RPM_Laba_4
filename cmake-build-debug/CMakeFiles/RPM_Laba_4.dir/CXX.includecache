@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Valera/Desktop/RPM_Laba_4/main.cpp
+iostream
+-
+locale.h
+-
+cstdlib
+-
+time.h
+-
+fstream
+-
+windows.h
+-
+qsort.h
+C:/Users/Valera/Desktop/RPM_Laba_4/qsort.h
+random.h
+C:/Users/Valera/Desktop/RPM_Laba_4/random.h
+psort.h
+C:/Users/Valera/Desktop/RPM_Laba_4/psort.h
+
+C:/Users/Valera/Desktop/RPM_Laba_4/psort.h
+
+C:/Users/Valera/Desktop/RPM_Laba_4/qsort.h
+
+C:/Users/Valera/Desktop/RPM_Laba_4/random.h
+
